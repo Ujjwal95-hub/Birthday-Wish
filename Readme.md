@@ -40,29 +40,6 @@ Every screen is designed to reveal feelings step by step, like unwrapping a gift
 * 📱 Responsive design (works on mobile & desktop)
 
 ---
-
-## 🛠️ How to Run Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   ```
-
-2. Open the project folder
-
-3. Run the project:
-
-   * Just open `index.html` in your browser
-
----
-
-## 🌐 Live Demo
-
-(After enabling GitHub Pages, your link will go here)
-
----
-
 ## ❤️ Note
 
 This project was created as a personal gift.
